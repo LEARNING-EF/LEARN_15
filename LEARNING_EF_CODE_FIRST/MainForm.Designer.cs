@@ -30,8 +30,8 @@
 			// 
 			// solution1Button
 			// 
-			this.solution1Button.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+			this.solution1Button.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+			| System.Windows.Forms.AnchorStyles.Right)));
 			this.solution1Button.Location = new System.Drawing.Point(12, 12);
 			this.solution1Button.Name = "solution1Button";
 			this.solution1Button.Size = new System.Drawing.Size(260, 23);
@@ -42,8 +42,8 @@
 			// 
 			// solution2Button
 			// 
-			this.solution2Button.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+			this.solution2Button.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+			| System.Windows.Forms.AnchorStyles.Right)));
 			this.solution2Button.Location = new System.Drawing.Point(12, 41);
 			this.solution2Button.Name = "solution2Button";
 			this.solution2Button.Size = new System.Drawing.Size(260, 23);
@@ -54,8 +54,8 @@
 			// 
 			// solution4Button
 			// 
-			this.solution4Button.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+			this.solution4Button.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+			| System.Windows.Forms.AnchorStyles.Right)));
 			this.solution4Button.Location = new System.Drawing.Point(12, 99);
 			this.solution4Button.Name = "solution4Button";
 			this.solution4Button.Size = new System.Drawing.Size(260, 23);
@@ -66,8 +66,8 @@
 			// 
 			// solution3Button
 			// 
-			this.solution3Button.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+			this.solution3Button.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+			| System.Windows.Forms.AnchorStyles.Right)));
 			this.solution3Button.Location = new System.Drawing.Point(12, 70);
 			this.solution3Button.Name = "solution3Button";
 			this.solution3Button.Size = new System.Drawing.Size(260, 23);
