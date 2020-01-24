@@ -42,7 +42,7 @@ namespace LEARNING_EF_CODE_FIRST
 				if (databaseContext != null)
 				{
 					databaseContext.Dispose();
-					databaseContext = null;
+					//databaseContext = null;
 				}
 			}
 		}
@@ -74,7 +74,7 @@ namespace LEARNING_EF_CODE_FIRST
 				if (databaseContext != null)
 				{
 					databaseContext.Dispose();
-					databaseContext = null;
+					//databaseContext = null;
 				}
 			}
 		}
@@ -107,7 +107,7 @@ namespace LEARNING_EF_CODE_FIRST
 				if (databaseContext != null)
 				{
 					databaseContext.Dispose();
-					databaseContext = null;
+					//databaseContext = null;
 				}
 			}
 		}
@@ -139,7 +139,7 @@ namespace LEARNING_EF_CODE_FIRST
 				if (databaseContext != null)
 				{
 					databaseContext.Dispose();
-					databaseContext = null;
+					//databaseContext = null;
 				}
 			}
 		}
@@ -172,7 +172,7 @@ namespace LEARNING_EF_CODE_FIRST
 				if (databaseContext != null)
 				{
 					databaseContext.Dispose();
-					databaseContext = null;
+					//databaseContext = null;
 				}
 			}
 		}
