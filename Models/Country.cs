@@ -14,6 +14,10 @@
 
 		public Country() : base()
 		{
+			// هر چند حتی در بعضی از منابع مایکروسافت ممکن است این رویه را
+			// شاهد باشیم، ولی من توصیه نمی‌کنم
+			//States =
+			//	new System.Collections.Generic.List<State>();
 		}
 
 		// **********

@@ -10,7 +10,8 @@
 
 		public DatabaseContext() : base()
 		{
-			Configuration.LazyLoadingEnabled = true; // Default: [true]
+			// Default: [true]
+			Configuration.LazyLoadingEnabled = true;
 		}
 
 		// **********

@@ -21,12 +21,6 @@
 		}
 
 		// **********
-		[System.ComponentModel.DataAnnotations.StringLength
-			(maximumLength: 50)]
-		public string Name { get; set; }
-		// **********
-
-		// **********
 		// **********
 		// **********
 		public System.Guid CountryId { get; set; }
@@ -36,6 +30,12 @@
 		public virtual Country Country { get; set; }
 		// **********
 		// **********
+		// **********
+
+		// **********
+		[System.ComponentModel.DataAnnotations.StringLength
+			(maximumLength: 50)]
+		public string Name { get; set; }
 		// **********
 	}
 }
